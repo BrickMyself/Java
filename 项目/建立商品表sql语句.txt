@@ -1,0 +1,10 @@
+create table product
+(
+  pid  int primary key auto_increment,
+  pname varchar(40),
+  pprice int,
+  ppricezk int,
+  pimg varchar(50),
+  pdes varchar(200),
+  pcata int 
+);

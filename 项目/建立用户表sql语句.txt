@@ -1,0 +1,13 @@
+
+create table userinfo
+(
+  usrid int PRIMARY key auto_increment,
+  usrname varchar(30),
+  usrpwd char(10),
+  usrsex char(5),
+  usrphone char(11),
+  usremail varchar(30)
+);
+
+
+insert into userinfo values(2,'admin2','123456','男','15339257765','admin2@qq.com');

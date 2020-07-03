@@ -1,0 +1,14 @@
+insert into product values(null,'Java入门到精通',69,20,'images/b001.jpg','好看',0);
+insert into product values(null,'Java程序设计',120,20,'images/b010.jpg','好看',0);
+insert into product values(null,'Java面向对象程序设计',50,20,'images/b014.jpg','好看',0);
+insert into product values(null,'Java程序设计习题精编',70,20,'images/b029.jpg','好看',0);
+insert into product values(null,'Java面向对象程序设计',50,20,'images/b030.jpg','好看',0);
+insert into product values(null,'Java 2实用教程',70,20,'images/b036.jpg','好看',0);
+insert into product values(null,'Java 程序设计基础',50,20,'images/b041.jpg','好看',0);
+insert into product values(null,'Java从小白到大牛',70,20,'images/b042.jpg','好看',0);
+insert into product values(null,'Java EE',70,20,'images/b043.jpg','好看',0);
+insert into product values(null,'Java 性能优化',80,20,'images/b044.jpg','好看',0);
+insert into product values(null,'Java 多线程编程',40,20,'images/b045.jpg','好看',0);
+insert into product values(null,'Java 并发编程之美',70,20,'images/b046.jpg','好看',0);
+
+select * from product;
